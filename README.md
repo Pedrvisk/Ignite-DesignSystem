@@ -10,7 +10,11 @@
 </p>
 <p align='center'>
   <a href='https://www.figma.com/file/SmB2xmwulqJrKiJD8pKgB2/Ignite-Lab-Design-System'>
-    <img src='https://img.shields.io/badge/Figma-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
+    <img src='https://img.shields.io/badge/Template-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
+	</a>&nbsp;
+	<a href='https://pedrvisk.github.io/IgniteLab_DesignSystem'>
+    <img src='https://img.shields.io/badge/Docs-ff528c?style=for-the-badge&logo=storybook&logoColor=white' />
+	</a>
 </p>
 <!--/Heading-->
 
@@ -22,6 +26,7 @@
   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />&nbsp;&nbsp;
 	<img src='https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Storybook-ff528c?style=for-the-badge&logo=storybook&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
+  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />&nbsp;&nbsp;
+	<img src='https://img.shields.io/badge/Figma-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
 </p>
 <!--/Section-->
