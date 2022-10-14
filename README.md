@@ -6,14 +6,13 @@
   Ignite Lab
 </h1>
 <p align='center'>
-  • Figma to React - <strong>Design System</strong>
+  <strong>Figma</strong> to <strong>React</strong> - <strong>Design System</strong>
 </p>
 <!--/Heading-->
 
 <!--Section-->
 <p align='center'>
   <a href='https://www.figma.com/file/SmB2xmwulqJrKiJD8pKgB2/Ignite-Lab-Design-System'>
-    <img src='https://img.shields.io/badge/Figma-7289DA?style=for-the-badge&logo=figma&logoColor=white' />
-  </a>
+    <img src='https://img.shields.io/badge/Figma-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
 </p>
 <!--/Section-->
