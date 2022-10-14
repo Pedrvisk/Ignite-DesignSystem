@@ -12,7 +12,7 @@
   <a href='https://www.figma.com/file/SmB2xmwulqJrKiJD8pKgB2/Ignite-Lab-Design-System'>
     <img src='https://img.shields.io/badge/Template-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
 	</a>&nbsp;
-	<a href='http://ignite01-designsystem.pedrovisk.ml/'>
+	<a href='https://ignite01-designsystem.pedrovisk.ml/'>
     <img src='https://img.shields.io/badge/Docs-ff528c?style=for-the-badge&logo=storybook&logoColor=white' />
 	</a>
 </p>
