@@ -32,19 +32,8 @@
 <!--/Section-->
 
 <!--Section-->
+<br/>
 <h4 align='center'>
-  🖥️ Desktop
-</h4>
-<p align='center'>
-	<img src='.github/desktop.png' />
-</p>
-<!--/Section-->
-
-<!--Section-->
-<h4 align='center'>
-  📱 Mobile
-</h4>
-<p align='center'>
-	<img src='.github/mobile.png' />
-</p>
+	<img src='.github/preview.png' />
+</4>
 <!--/Section-->
