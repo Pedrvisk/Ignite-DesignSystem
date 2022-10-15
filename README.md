@@ -1,6 +1,6 @@
 <!--Heading-->
 <h3 align='center'>
-  <img src='.github/ignitelab-logo.png' width='100'/>
+  <img src='.github/logo.png' width='100'/>
 </h3>
 <h1 align='center'>
   Ignite Lab
@@ -28,5 +28,23 @@
   <img src='https://img.shields.io/badge/Storybook-ff528c?style=for-the-badge&logo=storybook&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />&nbsp;&nbsp;
 	<img src='https://img.shields.io/badge/Figma-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
+</p>
+<!--/Section-->
+
+<!--Section-->
+<h4 align='center'>
+  🖥️ Desktop
+</h4>
+<p align='center'>
+	<img src='.github/desktop.png' />
+</p>
+<!--/Section-->
+
+<!--Section-->
+<h4 align='center'>
+  📱 Mobile
+</h4>
+<p align='center'>
+	<img src='.github/mobile.png' />
 </p>
 <!--/Section-->
