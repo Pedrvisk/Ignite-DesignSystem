@@ -26,7 +26,8 @@
   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Storybook-ff528c?style=for-the-badge&logo=storybook&logoColor=white' />&nbsp;&nbsp;
-  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />&nbsp;&nbsp;
+  <img src='https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />&nbsp;&nbsp;
+	<img src='https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=r&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Figma-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
 </p>
 <!--/Section-->
