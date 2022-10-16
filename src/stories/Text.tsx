@@ -2,6 +2,7 @@ import { ReactNode } from 'react';
 import { Slot } from '@radix-ui/react-slot';
 import { clsx } from 'clsx';
 
+// Interface: TextProps
 export interface TextProps {
 	size?: 'sm' | 'md' | 'lg';
 	children: ReactNode;
@@ -9,7 +10,8 @@ export interface TextProps {
 	className?: string;
 }
 
-export function Text({ size = 'md', children, asChild, className }: TextProps) {
+// Stories: Text
+export const Text = ({ size = 'md', children, asChild, className }: TextProps) => {
 	const Comp = asChild ? Slot : 'span';
 
 	return (

@@ -1,6 +1,7 @@
 import { Meta, StoryObj } from '@storybook/react';
 import { Text, TextProps } from './Text';
 
+// Stories: Text
 export default {
 	title: 'Components/Text',
 	component: Text,
@@ -23,8 +24,10 @@ export default {
 	}
 } as Meta<TextProps>
 
+// Text: Default
 export const Default: StoryObj<TextProps> = {}
 
+// Text: Small
 export const Small: StoryObj<TextProps> = {
 	args: {
 		size: 'sm'
@@ -38,6 +41,7 @@ export const Small: StoryObj<TextProps> = {
 	}
 }
 
+// Text: Large
 export const Large: StoryObj<TextProps> = {
 	args: {
 		size: 'lg'
@@ -51,6 +55,7 @@ export const Large: StoryObj<TextProps> = {
 	}
 }
 
+// Text: CustomComponent
 export const CustomComponent: StoryObj<TextProps> = {
 	args: {
 		asChild: true,

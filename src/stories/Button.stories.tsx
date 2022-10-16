@@ -1,6 +1,7 @@
 import { Meta, StoryObj } from '@storybook/react';
 import { Button, ButtonProps } from './Button';
 
+// Stories: Button
 export default {
 	title: 'Components/Button',
 	component: Button,
@@ -16,4 +17,5 @@ export default {
 	}
 } as Meta<ButtonProps>
 
+// Button: Default
 export const Default: StoryObj<ButtonProps> = {}

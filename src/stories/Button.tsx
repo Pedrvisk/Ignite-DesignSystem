@@ -2,12 +2,14 @@ import { ButtonHTMLAttributes, ReactNode } from 'react';
 import { Slot } from '@radix-ui/react-slot';
 import { clsx } from 'clsx';
 
+// Interface: ButtonProps
 export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 	children: ReactNode;
 	asChild?: Boolean;
 }
 
-export function Button({ children, asChild, className, ...props }: ButtonProps) {
+// Stories: Button
+export const Button = ({ children, asChild, className, ...props }: ButtonProps) => {
 	const Comp = asChild ? Slot : 'button';
 
 	return (

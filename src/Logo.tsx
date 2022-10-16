@@ -1,8 +1,10 @@
 import { SVGAttributes } from 'react';
 
+// Interface: LogoProps
 interface LogoProps extends SVGAttributes<HTMLOrSVGElement> { }
 
-export function Logo(props: LogoProps) {
+// Vite: Logo
+export const Logo = (props: LogoProps) => {
 	return (
 		<svg
 			xmlns='http://www.w3.org/2000/svg'
