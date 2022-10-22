@@ -1,4 +1,5 @@
 <!--Heading-->
+<br />
 <h3 align='center'>
   <img src='.github/ignite.svg' />
 </h3>
@@ -14,6 +15,7 @@
     <img src='https://img.shields.io/badge/Docs-ff528c?style=for-the-badge&logo=storybook&logoColor=white' />
   </a>
 </p>
+<br />
 <!--/Heading-->
 
 <!--Section-->
@@ -28,6 +30,7 @@
 	<img src='https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=r&logoColor=white' />&nbsp;&nbsp;
   <img src='https://img.shields.io/badge/Figma-4B275F?style=for-the-badge&logo=figma&logoColor=white' />
 </p>
+<br />
 <!--/Section-->
 
 <!--Section-->
