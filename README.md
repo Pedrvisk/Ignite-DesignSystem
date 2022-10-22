@@ -1,10 +1,8 @@
 <!--Heading-->
 <h3 align='center'>
-  <img src='.github/logo.png' width='100'/>
+  <img src='.github/ignite.svg' />
 </h3>
-<h1 align='center'>
-  Ignite Lab
-</h1>
+<br />
 <p align='center'>
   • <strong>Figma</strong> to <strong>React</strong> - <strong>Design System</strong>
 </p>
